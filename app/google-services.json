@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "439193888643",
+    "firebase_url": "https://student-file-share-app.firebaseio.com",
+    "project_id": "student-file-share-app",
+    "storage_bucket": "student-file-share-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:439193888643:android:a72e63a3afe4a6772038b6",
+        "android_client_info": {
+          "package_name": "com.justice.studentfileshareapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "439193888643-lehaf5bul66fnv4h186hee6d4k1e372d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.justice.studentfileshareapp",
+            "certificate_hash": "a750750b75522391484378f5e5806f12824dc71e"
+          }
+        },
+        {
+          "client_id": "439193888643-fpe641uc2mv20n6lj8v2mmncsph23674.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5jY09VtFSNlYukagPDqbIY_ZMqmRVYbg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "439193888643-fpe641uc2mv20n6lj8v2mmncsph23674.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
